@@ -99,8 +99,6 @@ The dashboard includes:
 
 # 📸 Dashboard Preview
 
-> *(After uploading your dashboard screenshot to the Images folder, it will appear below.)*
-
 ![Retail BI Dashboard](Images/dashboard.png)
 
 ---
